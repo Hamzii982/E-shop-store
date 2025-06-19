@@ -7,7 +7,6 @@ A full-featured, scalable multi-seller e-commerce web application developed as t
 ## 🔧 Tech Stack
 
 | Layer        | Technology                         |
-|--------------|------------------------------------|
 | Backend      | PHP (CodeIgniter Framework)        |
 | Frontend     | HTML, CSS, Bootstrap, JavaScript   |
 | Database     | MySQL                              |
